@@ -12,17 +12,17 @@ Fisch Features:-
 - Auto Cast
 - Teleports (Also Have Best Places to fram Fischs And Coinss)
 - Player Hacks
-**MORE!**
+- **MORE!**
 # Support Games
 - Fisch
-**MORE SOON**
+- **MORE SOON**
   
 ## Installation 🛠️
 
 1. **Download the Script**: Access the script file from the repository.
 2. **Open Roblox**: Launch your Roblox game.
 3. **Use a Script Executor**:
-   - Open your chosen exploit (e.g., Synapse X, Krnl).
+   - Open your chosen exploit (e.g., Synapse X, Krnl, ALL MOBILE EXECUTORS).
    - Copy and paste the script into the executor.
    - Click **Execute** to run the script.
 
@@ -36,6 +36,7 @@ Fisch Features:-
 ## Resources 🌐
 - [Roblox Developer Hub](https://developer.roblox.com/en-us)
 - [Roblox Scripting Tutorials](https://www.youtube.com/results?search_query=roblox+scripting+tutorials)
+- [Create An ALT](https://roblox.com/login)
 
 ## Contributing 🤝
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
