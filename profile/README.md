@@ -42,4 +42,4 @@ Fisch Features:-
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
 ## License 📜
-This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/RuthExploits/Ruth?tab=GPL-3.0-1-ov-file) file for details. Made By Socwer
+This project is licensed under the **GNU GENERAL PUBLIC License** - see the [LICENSE](https://github.com/RuthExploits/Ruth?tab=GPL-3.0-1-ov-file) file for details. Made By Socwer
